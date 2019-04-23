@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HeadWorth:jar">
+    <output-path>$USER_HOME$/Desktop/Plugin Development</output-path>
+    <root id="archive" name="HeadWorth.jar">
+      <element id="module-output" name="HeadWorth" />
+    </root>
+  </artifact>
+</component>
